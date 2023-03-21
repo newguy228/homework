@@ -1,4 +1,4 @@
-public class Main {
+public class homework_1 {
     public static void main(String arg[]) {
         double p = 70;
         double s = 25;
